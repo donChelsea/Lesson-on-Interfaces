@@ -4,7 +4,7 @@
 
 As requested, I’ve added an image for the README so it is more entertaining.
 
-![galazy exploding](https://cdn.spacetelescope.org/archives/images/screen/opo0328a.jpg)
+![galazy exploding](https://cdn.spacetelescope.org/archives/images/thumb700x/heic1509a.jpg)
 
 As you can see, I enjoy images of things in space. 
 
